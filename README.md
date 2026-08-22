@@ -6,7 +6,9 @@ On here you can find some basic information about my most important projects and
 
 If you would like to know more about them, feel free to dive deeper by checking out the provided links.
 
-I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore, but I still have many ideas for future improvements and features. Maybe they will come in the future.
+I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore, but I still have many ideas for future improvements and features. 
+
+Maybe they will come some day, who knows.
 
 <br><br>
 <p align="center"><img src="./assets/img/songguessr.png" alt="icon" width="90"/></p>
@@ -30,7 +32,7 @@ Currently, I am not actively working on this project anymore, but I still have s
 <p align="center"><img src="./assets/img/spotify-video-matcher.png" alt="icon" width="80"/></p>
 <h2 align="center">Spotify Video Matcher</h2>
 
-This small app allows you to watch YouTube music videos live for Spotify songs you are currently listening to.
+This small web app allows you to watch YouTube music videos live for Spotify songs you are currently listening to.
 
 It uses the Spotify API to get playback information and the YouTube Data API to search for the videos.
 
