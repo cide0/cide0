@@ -36,6 +36,12 @@ It uses the Spotify API to get playback information and the YouTube Data API to 
 
 The frontend consists of a single page site running with `JavaScript` and `JQuery`, while the backend is a `Node.js` application using `express`.
 
+Might contain rick-rolling! :trollface:
+
+<p align="center"><img src="./assets/img/spotify-video-matcher-login.png" alt="icon" width="300"/></p>
+<p align="center"><img src="./assets/img/spotify-video-matcher-playing.png" alt="icon" width="300"/></p>
+<p align="center"><img src="./assets/img/spotify-video-matcher-idle.png" alt="icon" width="300"/></p>
+
 <p align="center"><a href="https://github.com/cide0/spotify-video-matcher">-> Repository page</a></p>
 
 <br><br>
