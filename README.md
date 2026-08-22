@@ -24,10 +24,10 @@ Currently, I am not actively working on this project anymore, but I still have s
 
 <p align="center"><img src="./assets/img/songguessr_screenshot.png" alt="icon" width="1000"/></p>
 
-<a align="center" href="https://github.com/cide0/songGuessr">-> Repository page</a>
+<p align="center"><a href="https://github.com/cide0/songGuessr">-> Repository page</a></p>
 
 <br><br>
-<p align="center"><img src="./assets/img/spotify-video-matcher.png" alt="icon" width="70"/></p>
+<p align="center"><img src="./assets/img/spotify-video-matcher.png" alt="icon" width="80"/></p>
 <h2 align="center">Spotify Video Matcher</h2>
 
 This small app allows you to watch YouTube music videos live for Spotify songs you are currently listening to.
@@ -36,7 +36,7 @@ It uses the Spotify API to get playback information and the YouTube Data API to 
 
 The frontend consists of a single page site running with `JavaScript` and `JQuery`, while the backend is a `Node.js` application using `express`.
 
-[-> Repository page](https://github.com/cide0/spotify-video-matcher)
+<p align="center"><a href="https://github.com/cide0/spotify-video-matcher">-> Repository page</a></p>
 
 <br><br>
 ## Contact
