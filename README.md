@@ -8,7 +8,7 @@ If you would like to know more about them, feel free to dive deeper by checking 
 
 I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore, but I still have many ideas for future improvements and features. Maybe they will come in the future.
 
-<br>
+<br><br>
 <p align="center"><img src="./assets/img/songguessr.png" alt="icon" width="90"/></p>
 <h2 align="center">SongGuessr</h2>
 
@@ -26,7 +26,7 @@ Currently, I am not actively working on this project anymore, but I still have s
 
 [-> Repository page](https://github.com/cide0/songGuessr)
 
-
+<br><br>
 ## Contact
 
 Feel free to reach out to me. You can find me on the following platforms:
