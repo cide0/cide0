@@ -24,7 +24,7 @@ Currently, I am not actively working on this project anymore, but I still have s
 
 <p align="center"><img src="./assets/img/songguessr_screenshot.png" alt="icon" width="1000"/></p>
 
-<p align="center">[-> Repository page](https://github.com/cide0/songGuessr)</p>
+<a align="center" href="https://github.com/cide0/songGuessr">-> Repository page</a>
 
 <br><br>
 <p align="center"><img src="./assets/img/spotify-video-matcher.png" alt="icon" width="70"/></p>
