@@ -38,10 +38,11 @@ The frontend consists of a single page site running with `JavaScript` and `JQuer
 
 Might contain rick-rolling! :trollface:
 
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-between;">
+<p align="center">
 <img src="./assets/img/spotify-video-matcher-login.png" alt="icon" width="400"/>
 <img src="./assets/img/spotify-video-matcher-playing.png" alt="icon" width="400"/>
-</div>
+</p>
+
 
 <p align="center"><a href="https://github.com/cide0/spotify-video-matcher">-> Repository page</a></p>
 
