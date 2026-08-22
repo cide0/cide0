@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 
-## My Projects
+<h2 align="center">My Projects</h2>
 
 Here you can find some basic information about my most important projects. 
 
