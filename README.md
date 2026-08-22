@@ -38,7 +38,7 @@ The frontend consists of a single page site running with `JavaScript` and `JQuer
 
 Might contain rick-rolling! :trollface:
 
-<div style="display:flex; gap:30px; flex-direction: row; align-items: center; justify-content: space-evenly;">
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-between;">
 <img src="./assets/img/spotify-video-matcher-login.png" alt="icon" width="400"/>
 <img src="./assets/img/spotify-video-matcher-playing.png" alt="icon" width="400"/>
 </div>
