@@ -8,7 +8,9 @@ If you would like to know more about them, feel free to dive deeper by checking 
 
 I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore, but I still have many ideas for future improvements and features. Maybe they will come in the future.
 
-<img style="float: right;" src="./assets/img/songguessr.png" alt="icon" width="50"/><h1>SongGuessr</h1>
+<img style="float: left;" src="./assets/img/songguessr.png" alt="icon" width="50"/>
+
+<h1>SongGuessr</h1>
 
 **SongGuessr** is a fun web app that challenges you to guess the title of a song based on a variety of hints.
 
@@ -20,7 +22,7 @@ It consists of a backend API written in PHP and a frontend single page app runni
 
 Currently, I am not actively working on this project anymore, but I still have some ideas for future improvements, especially regarding a better way of adding new songs.
 
-<p align="center"><img src="./assets/img/songguessr_screenshot.png" alt="icon" width="800"/></p>
+<p align="center"><img src="./assets/img/songguessr_screenshot.png" alt="icon" width="1000"/></p>
 
 [-> Repository page](https://github.com/cide0/songGuessr)
 
