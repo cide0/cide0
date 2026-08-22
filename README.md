@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">My Projects</h2>
 
-Here you can find some basic information about my most important projects. 
+On here you can find some basic information about my most important projects and the current stuff im working on. 
 
 If you would like to know more about them, feel free to dive deeper by checking out the provided links.
 
