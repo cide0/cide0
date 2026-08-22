@@ -22,7 +22,7 @@ It consists of a backend API written in `PHP` using `Slim` and a frontend single
 
 Currently, I am not actively working on this project anymore, but I still have some ideas for future improvements, especially regarding a better way of adding new songs.
 
-<p align="center"><img src="./assets/img/songguessr_screenshot.png" alt="icon" width="1000"/></p>
+<p align="center"><img src="./assets/img/songguessr-demo.gif" alt="icon" width="1000"/></p>
 
 <p align="center"><a href="https://github.com/cide0/songGuessr">-> Repository page</a></p>
 
