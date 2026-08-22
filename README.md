@@ -9,8 +9,8 @@ If you would like to know more about them, feel free to dive deeper by checking 
 I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore, but I still have many ideas for future improvements and features. Maybe they will come in the future.
 
 <br>
-<p align="center"><img src="./code/public/assets/icons/favicon.png" alt="icon" width="90"/></p>
-<h3 align="center">SongGuessr</h3>
+<p align="center"><img src="./assets/img/songguessr.png" alt="icon" width="90"/></p>
+<h2 align="center">SongGuessr</h2>
 
 **SongGuessr** is a fun web app that challenges you to guess the title of a song based on a variety of hints.
 
