@@ -6,7 +6,9 @@ On here you can find some basic information about my most important projects and
 
 If you would like to know more about them, feel free to dive deeper by checking out the provided links.
 
-I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore, but I still have many ideas for future improvements and features. 
+I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore.
+
+But I still have many ideas for future improvements and features. 
 
 Maybe they will come some day, who knows.
 
