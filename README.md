@@ -63,6 +63,26 @@ Until then, have fun trying it out! :relaxed:
 <p align="center"><a href="https://github.com/cide0/circular">-> Repository page</a></p>
 
 <br><br>
+<p align="center"><img src="./assets/img/school-project.png" alt="icon" width="90"/></p>
+<h2 align="center">OX2 Biodiversity</h2>
+
+This is a school project I worked on with a team of 3 other students as a part of my apprenticeship to become a web developer.
+
+The goal of our group was to create a web application that allows users to explore and learn about the biodiversity in a planned solar panel project near Mariehamn for the company [OX2](https://www.ox2.com/).
+
+It consists of a frontend single page application running with `Angular` and a backend API written in `PHP` using `Slim`.
+
+This project was a lot of fun, and our class actually flew out to Mariehamn to visit the solar park area and meet the people behind OX2.
+
+Sadly however, we didn't have enough time to implement every feature we had planned.
+
+This project won't be maintained anymore, but feel free to check it out.
+
+<p align="center"><img src="./assets/img/school-project-screenshot.png" alt="icon" width="1000"/></p>
+
+<p align="center"><a href="https://github.com/cide0/school-project">-> Repository page</a></p>
+
+<br><br>
 ## Contact
 
 Feel free to reach out to me. You can find me on the following platforms:
