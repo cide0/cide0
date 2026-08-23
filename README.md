@@ -10,7 +10,7 @@ I tend to lose interest in single projects quite often :sweat_smile:, so most of
 
 Maybe they will come some day, who knows.
 
-<br><br><br>
+<br><br>
 <p align="center"><img src="./assets/img/smija.png" alt="icon" width="60"/></p>
 <h2 align="center">Smija</h2>
 
@@ -30,7 +30,7 @@ Have fun playing! :snake:
 
 <p align="center"><a href="https://github.com/cide0/snake-og">-> Repository page</a></p>
 
-<br><br><br>
+<br><br><br><br>
 <p align="center"><img src="./assets/img/songguessr.png" alt="icon" width="90"/></p>
 <h2 align="center">SongGuessr</h2>
 
@@ -48,7 +48,7 @@ Currently, I am not actively working on this project anymore, but I still have s
 
 <p align="center"><a href="https://github.com/cide0/songGuessr">-> Repository page</a></p>
 
-<br><br><br>
+<br><br><br><br>
 <p align="center"><img src="./assets/img/spotify-video-matcher.png" alt="icon" width="80"/></p>
 <h2 align="center">Spotify Video Matcher</h2>
 
@@ -64,7 +64,7 @@ Might contain rick-rolling! :trollface:
 
 <p align="center"><a href="https://github.com/cide0/spotify-video-matcher">-> Repository page</a></p>
 
-<br><br><br>
+<br><br><br><br>
 <p align="center"><img src="./assets/img/circular.png" alt="icon" width="110"/></p>
 <h2 align="center">Circular</h2>
 
@@ -82,7 +82,7 @@ Until then, have fun trying it out! :relaxed:
 
 <p align="center"><a href="https://github.com/cide0/circular">-> Repository page</a></p>
 
-<br><br><br>
+<br><br><br><br>
 <p align="center"><img src="./assets/img/school-project.png" alt="icon" width="90"/></p>
 <h2 align="center">OX2 Biodiversity</h2>
 
