@@ -86,7 +86,7 @@ Until then, have fun trying it out! :relaxed:
 
 <br><br><br><br>
 <p align="center"><img src="./assets/img/school-project.png" alt="icon" width="90"/></p>
-<h2 align="center">OX2 Biodiversity</h2>
+<h2 align="center">[OX2 Biodiversity](https://github.com/cide0/ox2-school-project)</h2>
 
 This is a school project I worked on with a team of 3 other students as a part of my apprenticeship to become a web developer.
 
@@ -102,7 +102,7 @@ This project won't be maintained anymore, but feel free to check it out.
 
 <p align="center"><img src="./assets/img/school-project-screenshot.png" alt="icon" width="1000"/></p>
 
-<p align="center"><a href="https://github.com/cide0/school-project">-> Repository page</a></p>
+<p align="center"><a href="https://github.com/cide0/ox2-school-project">-> Repository page</a></p>
 
 <br><br>
 ## Contact
