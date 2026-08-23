@@ -11,6 +11,22 @@ I tend to lose interest in single projects quite often :sweat_smile:, so most of
 Maybe they will come some day, who knows.
 
 <br><br>
+<p align="center"><img src="./assets/img/smija.png" alt="icon" width="90"/></p>
+<h2 align="center">Smija</h2>
+
+Welcome to my first ever real coding project, which was the start of it all and got me into my career as a software developer.
+
+This is a `Java`-based version of the classic snake game, which runs in [Greenfoot](https://www.greenfoot.org/home), a `Java`-based IDE to learn the basics of OOP.
+
+I created this game as a school project with a team of 3 other students in 10th grade.
+
+It was my first real touch with OOP and really sparked my interest in programming and software development. :heart:
+
+<p align="center"><img src="./assets/img/smija-demo.gif" alt="icon" width="1000"/></p>
+
+<p align="center"><a href="https://github.com/cide0/snake-og">-> Repository page</a></p>
+
+<br><br>
 <p align="center"><img src="./assets/img/songguessr.png" alt="icon" width="90"/></p>
 <h2 align="center">SongGuessr</h2>
 
