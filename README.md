@@ -86,7 +86,7 @@ Until then, have fun trying it out! :relaxed:
 
 <br><br><br><br>
 <p align="center"><img src="./assets/img/school-project.png" alt="icon" width="90"/></p>
-<h2 align="center">[OX2 Biodiversity](https://github.com/cide0/ox2-school-project)</h2>
+<h2 align="center">OX2 Biodiversity</h2>
 
 This is a school project I worked on with a team of 3 other students as a part of my apprenticeship to become a web developer.
 
