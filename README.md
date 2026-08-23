@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">My Projects</h2>
 
-On here you can find some basic information about my most important projects and the current stuff im working on. 
+On here you can find some basic information about my most important projects and the current stuff I'm working on. 
 
 If you would like to know more about them, feel free to dive deeper by checking out the provided links.
 
@@ -42,9 +42,25 @@ Might contain rick-rolling! :trollface:
 
 <p align="center"><img src="./assets/img/spotify-video-matcher-demo.gif" alt="icon" width="1000"/></p>
 
-
-
 <p align="center"><a href="https://github.com/cide0/spotify-video-matcher">-> Repository page</a></p>
+
+<br><br>
+<p align="center"><img src="./assets/img/circular.png" alt="icon" width="110"/></p>
+<h2 align="center">Circular</h2>
+
+**Circular** is a small web page that lets you create fun circular animations with animated dots and basic math.
+
+Check it out live here: [https://cide0.github.io/circular/](https://cide0.github.io/circular/)
+
+It consists of a simple one-page frontend running with `JavaScript` and the `p5.js` library.
+
+I still have many ideas for future add-ons, including more customization options and different presets. I will definitely work on it again some time in the future.
+
+Until then, have fun trying it out! :relaxed:
+
+<p align="center"><img src="./assets/img/circular-demo.gif" alt="icon" width="1000"/></p>
+
+<p align="center"><a href="https://github.com/cide0/circular">-> Repository page</a></p>
 
 <br><br>
 ## Contact
