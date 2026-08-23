@@ -20,7 +20,7 @@ I originally created it as a surprise for my mom, as we played it all together o
 
 You can also add the person's name who chose the song to add another layer of difficulty.
 
-It consists of a backend API written in `PHP` using `Slim` and a frontend single page app running with plain `JavaScript`.
+It consists of a backend API written in `PHP` using `Slim` and a frontend single page app running with plain `JavaScript`. `MySQL` is used for the database.
 
 Currently, I am not actively working on this project anymore, but I still have some ideas for future improvements, especially regarding a better way of adding new songs.
 
