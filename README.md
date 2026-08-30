@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">My Projects</h2>
 
-On here you can find some basic information about my 6 most important projects and the current stuff I'm working on. 
+Here you can find some basic information about my 6 most important projects and the current stuff I'm working on. 
 
 If you would like to know more about them, feel free to dive deeper by checking out the provided links and the rest of [my repositories](https://github.com/cide0?tab=repositories).
 
