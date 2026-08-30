@@ -116,4 +116,4 @@ Feel free to reach out to me. You can find me on the following platforms:
 
 [<img src="./assets/img/discord.ico" alt="discord" width="16px" height="auto">](https://discord.com/users/335124447700844564) [cide](https://discord.com/users/335124447700844564)
 
-[<img src="./assets/img/youtube.png" alt="discord" width="16px" height="auto">]([https://discord.com/users/335124447700844564](https://www.youtube.com/@c_id_e)) [cide]([https://discord.com/users/335124447700844564](https://www.youtube.com/@c_id_e))
+[<img src="./assets/img/youtube.png" alt="discord" width="16px" height="auto">](https://www.youtube.com/@c_id_e) [cide](https://www.youtube.com/@c_id_e)
