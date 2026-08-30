@@ -109,11 +109,30 @@ This project won't be maintained anymore, but feel free to check it out.
 
 Feel free to reach out to me. You can find me on the following platforms:
 
+<p>
+  <a href="https://www.linkedin.com/in/elias-boehm/">
+    <img src="./assets/img/linked_in.png" alt="LinkedIn" height="16" align="absmiddle">
+    Elias Böhm
+  </a>
+</p>
 
-[<img src="./assets/img/linked_in.png" alt="LinkedIn" width="16px" height="auto" style="vertical-align: middle">](https://www.linkedin.com/in/elias-boehm/) [<span style="vertical-align: middle">Elias Böhm</span>](https://www.linkedin.com/in/elias-boehm/)
+<p>
+  <a href="https://x.com/c_i_d_e">
+    <img src="./assets/img/twitter.ico" alt="x.com" height="16" align="absmiddle">
+    cide
+  </a>
+</p>
 
-[<img src="./assets/img/twitter.ico" alt="x.com" width="16px" height="auto" style="vertical-align: middle">](https://x.com/c_i_d_e) [<span style="vertical-align: middle">cide</span>](https://x.com/c_i_d_e)
+<p>
+  <a href="https://discord.com/users/335124447700844564">
+    <img src="./assets/img/discord.ico" alt="Discord" height="16" align="absmiddle">
+    cide
+  </a>
+</p>
 
-[<img src="./assets/img/discord.ico" alt="discord" width="16px" height="auto" style="vertical-align: middle">](https://discord.com/users/335124447700844564) [<span style="vertical-align: middle">cide</span>](https://discord.com/users/335124447700844564)
-
-[<img src="./assets/img/youtube.png" alt="youtube" width="16px" height="auto" style="vertical-align: middle">](https://www.youtube.com/@c_id_e) [<span style="vertical-align: middle">cide</span>](https://www.youtube.com/@c_id_e)
+<p>
+  <a href="https://www.youtube.com/@c_id_e">
+    <img src="./assets/img/youtube.png" alt="YouTube" height="16" align="absmiddle">
+    cide
+  </a>
+</p>
