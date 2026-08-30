@@ -2,9 +2,9 @@
 <br>
 <h2 align="center">My Projects</h2>
 
-On here you can find some basic information about my most important projects and the current stuff I'm working on. 
+On here you can find some basic information about my 6 most important projects and the current stuff I'm working on. 
 
-If you would like to know more about them, feel free to dive deeper by checking out the provided links.
+If you would like to know more about them, feel free to dive deeper by checking out the provided links and the rest of [my repositories](https://github.com/cide0?tab=repositories).
 
 I tend to lose interest in single projects quite often :sweat_smile:, so most of them are not actively maintained anymore.
 
@@ -65,6 +65,22 @@ Might contain rick-rolling! :trollface:
 <p align="center"><img src="./assets/img/spotify-video-matcher-demo.gif" alt="icon" width="1000"/></p>
 
 <p align="center"><a href="https://github.com/cide0/spotify-video-matcher">-> Repository page</a></p>
+
+<br><br><br><br>
+<p align="center"><img src="./assets/img/portfoliano.png" alt="icon" width="85"/></p>
+<h2 align="center">Portfoliano</h2>
+
+I'm currently learning to play the piano and this is my web page portfolio that showcases all songs I taught myself over the time.
+
+Check it out live here: [https://cide0.github.io/portfoliano/](https://cide0.github.io/portfoliano/)
+
+It consists of a simple frontend running with plain `HTML`, `CSS`, and `JavaScript`.
+
+Feel free to check out the videos and leave a like if you enjoy them! :heart:
+
+<p align="center"><img src="./assets/img/portfoliano-screenshot.png" alt="icon" width="1000"/></p>
+
+<p align="center"><a href="https://github.com/cide0/portfoliano">-> Repository page</a></p>
 
 <br><br><br><br>
 <p align="center"><img src="./assets/img/circular.png" alt="icon" width="110"/></p>
